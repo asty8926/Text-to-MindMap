@@ -1,0 +1,1 @@
+I wasn't satisfied with the available Text to Mindmap tools out there so I decided to try and make one using SvelteKit and Tailwind. Styling the items linking is difficult but the rest works.
